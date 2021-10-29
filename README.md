@@ -23,23 +23,15 @@ Here are some ideas to get you started:
 
 ### Front
 
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<br>
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### Back
 
-<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/gradle-02303A?style=flat-square&logo=gradle&logoColor=white"/>
-<img src="https://img.shields.io/badge/spring-3DDC84?style=flat-square&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/springboot-3DDC84?style=flat-square&logo=springboot&logoColor=white"/>
-
-<br>
-
-### IDE
-
-<img src="https://img.shields.io/badge/vscode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
-<img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
+![JAVA](https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white)
+![gradle](https://img.shields.io/badge/gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
+![spring](https://img.shields.io/badge/spring-3DDC84?style=flat-square&logo=spring&logoColor=white)
+![springboot](https://img.shields.io/badge/springboot-3DDC84?style=flat-square&logo=springboot&logoColor=white)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=tmddudals369)](https://solved.ac/tmddudals369)
