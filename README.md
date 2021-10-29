@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=tmddudals369)](https://solved.ac/tmddudals369)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=seungmin-park&theme=onedark)](https://github.com/seungmin-park/github-profile-trophy)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungmin-park&show_icons=true&theme=merko)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=seungmin-park&theme=onedark)](https://github.com/seungmin-park/github-profile-trophy)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseungmin-park&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
