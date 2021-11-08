@@ -33,8 +33,7 @@ Here are some ideas to get you started:
 ![spring](https://img.shields.io/badge/spring-3DDC84?style=flat-square&logo=spring&logoColor=white)
 ![springboot](https://img.shields.io/badge/springboot-3DDC84?style=flat-square&logo=springboot&logoColor=white)
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=tmddudals369)](https://solved.ac/tmddudals369)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=tmddudals369)](https://solved.ac/tmddudals369)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungmin-park&show_icons=true&theme=merko)
 
