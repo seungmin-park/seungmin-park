@@ -30,14 +30,21 @@ Here are some ideas to get you started:
 
 ![JAVA](https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white)
 ![gradle](https://img.shields.io/badge/gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
-![spring](https://img.shields.io/badge/spring-3DDC84?style=flat-square&logo=spring&logoColor=white)
-![springboot](https://img.shields.io/badge/springboot-3DDC84?style=flat-square&logo=springboot&logoColor=white)
+![spring](https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![springboot](https://img.shields.io/badge/spring_boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![spring Data JPA](https://img.shields.io/badge/spring_Data_JPA-6DB33F?style=flat-square&logo=AmazonDynamoDB&logoColor=white)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tmddudals369)](https://solved.ac/tmddudals369)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungmin-park&show_icons=true&theme=merko)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=seungmin-park&theme=onedark)](https://github.com/seungmin-park/github-profile-trophy)
+
+### 프로젝트
+
+<ul>
+ <li>(2021-09-13 ~ 2021-11-03)<a href="https://github.com/seungmin-park/inhatcBaekjoon">InahtcBaekJoon</a>
+</ul>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseungmin-park&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
