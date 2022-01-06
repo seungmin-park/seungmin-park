@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Notion Badge](https://img.shields.io/badge/Blog-FF8800?style=flat-square&logo=Micro.blog&logoColor=white&link=https://seungmin.tistory.com/)](https://seungmin.tistory.com/)
 [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/bff40f38a74844d29293fc9c89303035)](https://www.notion.so/bff40f38a74844d29293fc9c89303035)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tmddudals369@naver.com)](mailto:tmddudals369@naver.com)
 
@@ -30,7 +29,6 @@ Here are some ideas to get you started:
 
 ![JAVA](https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white)
 ![gradle](https://img.shields.io/badge/gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
-![spring](https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![springboot](https://img.shields.io/badge/spring_boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![spring Data JPA](https://img.shields.io/badge/spring_Data_JPA-6DB33F?style=flat-square&logo=AmazonDynamoDB&logoColor=white)
 
@@ -45,7 +43,3 @@ Here are some ideas to get you started:
 <ul>
  <li>(2021-09-13 ~ 2021-11-03)<a href="https://github.com/seungmin-park/inhatcBaekjoon">InahtcBaekJoon</a>
 </ul>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseungmin-park&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungmin-park&layout=compact)](https://github.com/seungmin-park/github-readme-stats) -->
