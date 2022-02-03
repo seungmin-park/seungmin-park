@@ -1,6 +1,6 @@
-### Hi there 👋
+<!-- ### Hi there 👋
 
-<!--
+
 **seungmin-park/seungmin-park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/bff40f38a74844d29293fc9c89303035)](https://www.notion.so/bff40f38a74844d29293fc9c89303035)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tmddudals369@naver.com)](mailto:tmddudals369@naver.com)
@@ -42,4 +42,4 @@ Here are some ideas to get you started:
 
 <ul>
  <li>(2021-09-13 ~ 2021-11-03)<a href="https://github.com/seungmin-park/inhatcBaekjoon">InahtcBaekJoon</a>
-</ul>
+</ul> -->
